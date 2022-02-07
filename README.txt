@@ -1,3 +1,0 @@
-Name : ALPER
-Surname : ERKOL
-ID : 2200356857
